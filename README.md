@@ -1,4 +1,4 @@
-# Hi, 👋
+# Hi 👋
 
 I work in **data architecture** (MarTech & BI). Outside work I write and build stuff, mostly for making music: electronic instruments and software for small machines, like retro handhelds.
 
@@ -8,7 +8,7 @@ I work in **data architecture** (MarTech & BI). Outside work I write and build s
 
 ## What I work with
 
-Salesforce Data Cloud · GCP · SQL · Python · DataOps · Data pipeline · DevOps
+Salesforce Data Cloud · GCP · SQL · Python · DataOps
 
 ## Find me
 
