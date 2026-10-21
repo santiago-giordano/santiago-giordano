@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, 👋
 
-<!--
-**santiago-giordano/santiago-giordano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work in **data architecture** (MarTech & BI). Outside work I write and build stuff, mostly for making music: electronic instruments and software for small machines, like retro handhelds.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎛️ **[swing_pico8](https://github.com/santiago-giordano/swing_pico8)**: four PICO-8 cartridges that turn a handheld game console into a beat-making tool, with swing inspired by J Dilla's timing. Open source. [Download on itch.io](https://giordams.itch.io/swing-lofi)
+
+## What I work with
+
+Salesforce Data Cloud · GCP · SQL · Python · DataOps · Data pipeline · DevOps
+
+## Find me
+
+[Website](https://santiago-giordano.github.io/) · [LinkedIn](https://www.linkedin.com/in/santiagogiordanomalta) · [itch.io](https://giordams.itch.io) · [YouTube](https://www.youtube.com/channel/UCC86qK1N--HXlxEF3xREAeA)
